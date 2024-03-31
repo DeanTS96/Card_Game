@@ -16,3 +16,4 @@
 /home/dean/test/Card_Game/CardGame/obj/Debug/net8.0/CardGame.pdb
 /home/dean/test/Card_Game/CardGame/obj/Debug/net8.0/CardGame.genruntimeconfig.cache
 /home/dean/test/Card_Game/CardGame/obj/Debug/net8.0/ref/CardGame.dll
+/home/dean/test/Card_Game/CardGame/obj/Debug/net8.0/CardGame.sourcelink.json

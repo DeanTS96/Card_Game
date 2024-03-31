@@ -111,3 +111,4 @@
 /home/dean/test/Card_Game/CardsLibraryTests/obj/Debug/net8.0/CardsLibraryTests.pdb
 /home/dean/test/Card_Game/CardsLibraryTests/obj/Debug/net8.0/CardsLibraryTests.genruntimeconfig.cache
 /home/dean/test/Card_Game/CardsLibraryTests/obj/Debug/net8.0/ref/CardsLibraryTests.dll
+/home/dean/test/Card_Game/CardsLibraryTests/obj/Debug/net8.0/CardsLibraryTests.sourcelink.json

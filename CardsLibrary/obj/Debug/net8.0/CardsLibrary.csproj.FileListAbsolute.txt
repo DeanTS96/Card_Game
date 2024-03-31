@@ -9,3 +9,4 @@
 /home/dean/test/Card_Game/CardsLibrary/obj/Debug/net8.0/refint/CardsLibrary.dll
 /home/dean/test/Card_Game/CardsLibrary/obj/Debug/net8.0/CardsLibrary.pdb
 /home/dean/test/Card_Game/CardsLibrary/obj/Debug/net8.0/ref/CardsLibrary.dll
+/home/dean/test/Card_Game/CardsLibrary/obj/Debug/net8.0/CardsLibrary.sourcelink.json
